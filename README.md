@@ -1,5 +1,4 @@
 # NASA - Solar System Simulator
-<h2>I made this project for Stanford University California United States, below is the link to the project:</h2>
 
 <h3>Final Project, Name is: (Solar System Simulator)</h3>
 
